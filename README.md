@@ -2,8 +2,7 @@
 
 Connect to a database and write SQL queries for information on Major League Baseball. Subset and join data tables to answer questions of interest.
 
-
-
+[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/Querying_Database_MLB/main/MLB_SQL.html)
 
 Key features:
 
@@ -23,7 +22,7 @@ Modules used:
 
 ## Project Report
 
-[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/NFL_pandas-on-Spark/main/NFL.html) ([Jupyter Notebook](./MLB_SQL.ipynb))
+[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/Querying_Database_MLB/main/MLB_SQL.html) ([Jupyter Notebook](./MLB_SQL.ipynb))
 
 The analysis results with theoretical backgrounds are included.
 
